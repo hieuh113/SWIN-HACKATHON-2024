@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/health.css">
+    <title>Health Dashboard</title>
+</head>
+<body>
+    <div class="health-dashboard">
+        <!-- Phần nhập liệu và các chỉ số -->
+        <div class="left-section">
+            <h2>Input Your Health Index</h2>
+
+            <!-- Nhập cân nặng và chiều cao -->
+            <div class="input-section">
+                <label for="weight">Weight (kg):</label>
+                <input type="number" id="weight" placeholder="Enter your weight">
+            </div>
+            <div class="input-section">
+                <label for="height">Height (cm):</label>
+                <input type="number" id="height" placeholder="Enter your height">
+            </div>
+
+            <!-- Nhịp tim -->
+            <div class="input-section">
+                <label for="heart-rate">Heart Rate (bpm):</label>
+                <input type="number" id="heart-rate" placeholder="Enter your heart rate">
+            </div>
+
+            <!-- Mức độ stress -->
+            <div class="input-section">
+                <label for="stress-level">Stress Level (scale 1-10):</label>
+                <input type="range" id="stress-level" min="1" max="10" step="1" value="5" oninput="updateStressLevel(this.value)">
+                <span id="stress-value">5</span>
+            </div>
+
+            <!-- Blood Pressure -->
+            <div class="input-section">
+                <label for="blood-pressure">Blood Pressure (mmHg):</label>
+                <input type="number" id="blood-pressure" placeholder="Enter your blood pressure">
+            </div>
+
+            <!-- Water Intake -->
+            <div class="input-section">
+                <label for="water-intake">Water Intake (liters):</label>
+                <input type="number" id="water-intake" placeholder="Enter water intake in liters">
+            </div>
+
+            <!-- Sleep Quality (đã được chuyển xuống cuối cùng và làm ngắn lại) -->
+            <div class="input-section short-input">
+                <label for="sleep-quality">Sleep Quality (hours):</label>
+                <input type="number" id="sleep-quality" placeholder="Enter sleep hours">
+            </div>
+            
+            <!-- Nút tính toán -->
+            <button id="evaluate-btn" onclick="evaluateHealth()">Evaluate Health</button>
+            <button id="download-btn" onclick="downloadHealthReport()">Download Health Report</button>
+        </div>
+
+        <!-- Phần hình ảnh cơ thể và BMI -->
+        <div class="center-section">
+            <img id="body-image" src="styles/body_silhouette.png" alt="Body Silhouette">
+            <p id="health-status">Health Status: Unknown</p>
+
+            <!-- Chỉ số BMI -->
+            <div class="bmi-box">
+                <h4>BMI:</h4> <p id="bmi-value-box">Unknown</p>
+                
+            </div>
+        </div>
+
+        <!-- Phần gợi ý -->
+        <div class="right-section">
+            <h3>Improvement Suggestions</h3>
+            <div id="suggestions-box"></div>
+        </div>
+    </div>
+
+    <script src="java/health.js"></script>
+</body>
+</html>
+

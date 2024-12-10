@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Survey</title>
+    <link rel="stylesheet" href="styles/survey.css">
+</head>
+
+<body>
+    <div class="survey-container">
+        <div class="logo">
+            <span>F</span>
+        </div>
+        <h1>Fitness Survey</h1>
+        <form action="login.php" method="post">
+            <div class="input-group">
+                <input type="number" id="weight" name="weight" required>
+                <label for="weight">Weight (kg)</label>
+            </div>
+            <div class="input-group">
+                <input type="number" id="height" name="height"required>
+                <label for="height">Height (cm)</label>
+            </div>
+            <div class="input-group">
+                <select id="gender" name="gender" required>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <select id="activity" name="activity" required>
+                    <option value="" disabled selected>Current Fitness Level</option>
+                    <option value="sedentary">Sedentary</option>
+                    <option value="light">Light</option>
+                    <option value="moderate">Moderate</option>
+                    <option value="active">Active</option>
+                    <option value="very_active">Very Active</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <select id="goal" name="goal" required>
+                    <option value="" disabled selected>Select your fitness goal</option>
+                    <option value="lose-weight">Lose Weight</option>
+                    <option value="gain-muscle">Gain Muscle</option>
+                    <option value="improve-endurance">Improve Endurance</option>
+                    <option value="maintain">Maintain Current Fitness</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <select id="intensity" name="intensity" required>
+                    <option value="" disabled selected>Time to exercise (per week)</option>
+                    <option value="0-2">0-2 hours</option>
+                    <option value="3-5">3-5 hours</option>
+                    <option value="6-8">6-8 hours</option>
+                    <option value="9+">9+ hours</option>
+                </select>
+            </div>
+            <button type="submit">Submit Survey</button>
+        </form>
+    </div>
+    <script src="java/survey.js"></script>
+</body>
+
+</html>

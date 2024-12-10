@@ -1,0 +1,1124 @@
+{
+  "data": [
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1303,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1308,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1314,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1319,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1325,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1330,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1336,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1341,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1347,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1352,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1358,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1363,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1369,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1374,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1380,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1385,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1392,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1397,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1423,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-20",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 0,
+      "distance": 0.0,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-21",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 7470,
+      "distance": 5.05,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-22",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 3372,
+      "distance": 2.28,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-23",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 4215,
+      "distance": 2.85,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-24",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9852,
+      "distance": 6.66,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-25",
+      "weight": 66.0,
+      "calories": 1589,
+      "steps": 9689,
+      "distance": 6.55,
+      "heart_rate": 0
+    },
+    {
+      "timestamp": "2024-09-26",
+      "weight": 66.0,
+      "calories": 1428,
+      "steps": 8207,
+      "distance": 9.221583,
+      "heart_rate": 0
+    }
+  ]
+}

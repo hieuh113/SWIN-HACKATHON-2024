@@ -1,0 +1,360 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="home.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HaminG</title>
+</head>
+<body>
+    <h1 id="HaminG">HaminG</h1>
+    <div>
+        <div id="datetime-display">
+        📅 <span id="date"> </span>
+        <button class="new-program-button">
+            <span class="plus-icon">+</span>
+            New Program
+        </button>    
+       </div>
+
+    </div>
+
+    <div class="dashboard-wrapper">
+        <div class="profile-section">
+            <img src="C:\Users\ADMIN\Downloads\XAMPP\htdocs\renew\xiao_bai.jpg" alt="Profile Avatar" class="profile-avatar">
+            <h2 class="profile-name">Cecillia Funi</h2>
+            <p class="profile-membership">Pro Membership</p>
+        </div>
+
+        <div class="layout-container">
+            <div class="menu-container">
+                <div class="menu-title">MENU</div>
+                <a class="menu-item active" href="home.html">
+                    <span class="menu-icon">🏠</span>
+                    <span class="menu-text">Home</span>
+                </a>
+                <a class="menu-item" href="workout.html">
+                    <span class="menu-icon">💪</span>
+                    <span class="menu-text">Workout</span>
+                </a>
+                <a class="menu-item" href="chatbox.html">
+                    <span class="menu-icon">📅</span>
+                    <span class="menu-text">AI Chatbox</span>
+                </a>
+                <a class="menu-item">
+                    <span class="menu-icon">📋</span>
+                    <span class="menu-text">Program</span>
+                </a>
+            </div>
+
+            <div class="card-container">
+                <div class="card">
+                    <div class="card-content">
+                        <div class="card-title">Active steps</div>
+                        <div class="card-value">5902</div>
+                    </div>
+                    <div class="card-icon steps-icon">👟</div>
+                </div>
+                <div class="card">
+                    <div class="card-content">
+                        <div class="card-title">Weight</div>
+                        <div class="card-value">80.2 kg</div>
+                    </div>
+                    <div class="card-icon weight-icon">⚖️</div>
+                </div>
+                <div class="card">
+                    <div class="card-content">
+                        <div class="card-title">Water intake</div>
+                        <div class="card-value">5 L</div>
+                    </div>
+                    <div class="card-icon water-icon">💧</div>
+                </div>
+                <div class="card">
+                    <div class="card-content">
+                        <div class="card-title">Calories</div>
+                        <div class="card-value">4901 kcal</div>
+                    </div>
+                    <div class="card-icon calories-icon">🔥</div>
+                </div>
+            </div>
+
+            <div class="timeline-container">
+                <div class="timeline">
+                    <span class="hour-marker">9 am</span>
+                    <span class="hour-marker">10 am</span>
+                    <span class="hour-marker">11 am</span>
+                    <span class="hour-marker">12 pm</span>
+                    <span class="hour-marker">1 pm</span>
+                    <span class="hour-marker">2 pm</span>
+                    <span class="hour-marker">3 pm</span>
+                </div>
+                <div class="event meal-prep">
+                    <span class="event-icon">🍱</span>
+                    Meal prep
+                </div>
+                <div class="event quality-time">
+                    <span class="event-icon">🦊</span>
+                    Quality time
+                </div>
+                <div class="event pre-workout">
+                    <span class="event-icon">🔥</span>
+                    Pre-workout
+                </div>
+                <div class="event chest-day">
+                    <span class="event-icon">💪</span>
+                    Chest day buddy!
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="body-analysis-container">
+        <div class="body-analysis-header">
+            <h2 class="body-analysis-title">Body Analysis</h2>
+            <a href="#" class="view-details">View Details</a>
+        </div>
+        <div class="body-analysis-chart">
+            <div class="bar" style="height: 20%; background-color: #40E0D0;">
+                <span class="date-label">28 Feb</span>
+            </div>
+            <div class="bar" style="height: 80%; background-color: #F5F5F5;"></div>
+            <div class="bar" style="height: 40%; background-color: #4CAF50;">
+                <div class="activity-label">
+                    <span class="activity-icon">🏋️</span>
+                    <span>Weightlifting</span>
+                    <span>350 kcal</span>
+                </div>
+                <span class="date-label">1 Mar</span>
+            </div>
+            <div class="bar" style="height: 30%; background-color: #F5F5F5;"></div>
+            <div class="bar" style="height: 70%; background-color: #FFA500;"></div>
+            <div class="bar" style="height: 25%; background-color: #F5F5F5;"></div>
+        </div>
+        <div class="x-axis">
+            <span>28 Feb</span>
+            <span>29 Feb</span>
+            <span>1 Mar</span>
+            <span>2 Mar</span>
+            <span>3 Mar</span>
+            <span>4 Mar</span>
+        </div>
+        <div class="calories-burnt">
+            <div class="calories-icon">🔥</div>
+            <div class="calories-info">
+                <span>Calories burnt</span>
+                <span class="calories-value">2901 kcal</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="consultation-button" onclick="toggleNotification()">
+        <span class="consultation-text">Consultation</span>
+        <svg class="arrow-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <div class="notification" id="notificationDot"></div>
+    </div>
+
+
+    <div class="meal-container">
+        <div class="meal-header">
+            <h2>Next Meal</h2>
+            <a href="#" class="view-details">View Details</a>
+        </div>
+        <div class="meal-options">
+            <div class="meal-option">
+                <svg class="meal-icon" viewBox="0 0 24 24" fill="#48bb78">
+                    <path d="M3 6c0-1.1.9-2 2-2h14a2 2 0 012 2v12a2 2 0 01-2 2H5a2 2 0 01-2-2V6zm2 0v12h14V6H5zm2 2h10v2H7V8zm0 4h10v2H7v-2z" />
+                </svg>
+                <div class="meal-info">
+                    <h3>Vege Wrap</h3>
+                    <div class="meal-stats">
+                        <span class="calories">🔥 50 cal</span>
+                        <span class="protein">⚡ 18 protein</span>
+                    </div>
+                </div>
+            </div>
+            <div class="meal-option">
+                <svg class="meal-icon" viewBox="0 0 24 24" fill="#4299e1">
+                    <path d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2zM6.023 15.416C7.491 17.606 9.695 19 12.16 19c2.464 0 4.669-1.393 6.136-3.584A8.968 8.968 0 0021 12c0-4.97-4.03-9-9-9s-9 4.03-9 9c0 1.167.228 2.279.023 3.416zM9 11.5c0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5S12.88 9 11.5 9 9 10.12 9 11.5z" />
+                </svg>
+                <div class="meal-info">
+                    <h3>Chicken Salad</h3>
+                    <div class="meal-stats">
+                        <span class="calories">🔥 44 cal</span>
+                        <span class="protein">⚡ 12 protein</span>
+                    </div>
+                </div>
+            </div>
+            <div class="meal-option">
+                <svg class="meal-icon" viewBox="0 0 24 24" fill="#f56565">
+                    <path d="M18 10v-4c0-3.313-2.687-6-6-6s-6 2.687-6 6v4h-3v14h18v-14h-3zm-10 0v-4c0-2.206 1.794-4 4-4s4 1.794 4 4v4h-8z" />
+                </svg>
+                <div class="meal-info">
+                    <h3>Steak</h3>
+                    <div class="meal-stats">
+                        <span class="calories">🔥 120 cal</span>
+                        <span class="protein">⚡ 56 protein</span>
+                    </div>
+                </div>
+            </div>
+            <div class="meal-option">
+                <svg class="meal-icon" viewBox="0 0 24 24" fill="#ecc94b">
+                    <circle cx="12" cy="12" r="10" />
+                    <circle cx="12" cy="12" r="3" />
+                </svg>
+                <div class="meal-info">
+                    <h3>Fried Egg</h3>
+                    <div class="meal-stats">
+                        <span class="calories">🔥 12 cal</span>
+                        <span class="protein">⚡ 5 protein</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="schedule-card"></div>
+        <div class="card-header">
+            <div class="emoji">🏊</div>
+            <label class="reminder-toggle">
+                <input type="checkbox" checked>
+                <span class="slider"></span>
+            </label>
+        </div>
+        <h2>Swimming practice</h2>
+        <p>You have a swimming class with mr. Johnson, don't forget to check on the syllabus that he shared!</p>
+        <div class="datetime-reminder">
+            10 Mar, 7:30 am
+            <span class="date-emoji">👩‍🦰👨‍🦰</span>
+        </div>
+    </div>
+
+    <script>
+        const reminderToggle = document.querySelector('.reminder-toggle input');
+        reminderToggle.addEventListener('change', function() {
+            console.log(this.checked ? 'Reminder on' : 'Reminder off');
+        });
+    </script>
+
+    <script>
+        function updateDateTime() {
+            const now = new Date();
+            const options = { 
+                timeZone: 'Asia/Ho_Chi_Minh',
+                weekday: 'short', 
+                day: 'numeric', 
+                month: 'short',
+                year: 'numeric',
+                hour: '2-digit', 
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false
+            };
+            
+            const formatter = new Intl.DateTimeFormat('en-US', options);
+            const [
+                { value: weekday },,
+                { value: day },,
+                { value: month },,
+                { value: year },,
+                { value: hour },,
+                { value: minute },,
+                { value: second }
+            ] = formatter.formatToParts(now);
+
+            document.getElementById('date').textContent = `${weekday}, ${day} ${month} ${year}`;
+            document.getElementById('time').textContent = `${hour}:${minute}:${second}`;
+        }
+
+        // Update time immediately and then every second
+        updateDateTime();
+        setInterval(updateDateTime, 1000);
+    </script>
+    
+    <script>
+        const menuItems = document.querySelectorAll('.menu-item');
+        const content = document.getElementById('content');
+
+        menuItems.forEach(item => {
+            item.addEventListener('click', function() {
+                // Remove active class from all menu items
+                menuItems.forEach(i => i.classList.remove('active'));
+                
+                // Add active class to clicked item
+                this.classList.add('active');
+
+                // Update content based on clicked tab
+                const tab = this.getAttribute('data-tab');
+                updateContent(tab);
+            });
+        });
+
+        function updateContent(tab) {
+            let contentHTML = '';
+            switch(tab) {
+                case 'dashboard':
+                    contentHTML = '<h2>Dashboard</h2><p>Welcome to your fitness dashboard!</p>';
+                    break;
+                case 'workout':
+                    contentHTML = '<h2>Workout</h2><p>Here\'s your workout plan for today.</p>';
+                    break;
+                case 'schedule':
+                    contentHTML = '<h2>Schedule</h2><p>Your upcoming fitness schedule.</p>';
+                    break;
+                case 'program':
+                    contentHTML = '<h2>Program</h2><p>Your custom fitness program details.</p>';
+                    break;
+            }
+            content.innerHTML = contentHTML;
+        }
+    </script>
+
+    <script>
+        let notificationVisible = false;
+
+        function toggleNotification() {
+            const notificationDot = document.getElementById('notificationDot');
+            notificationVisible = !notificationVisible;
+            notificationDot.style.display = notificationVisible ? 'block' : 'none';
+        }
+    </script>
+
+<script>
+    const data = [
+        { date: '28 Feb', value: 20, color: '#20B2AA' },
+        { date: '29 Feb', value: 10, color: '#F0F0F0' },
+        { date: '1 Mar', value: 50, color: '#32CD32', label: 'Weightlifting\n350 kcal' },
+        { date: '2 Mar', value: 5, color: '#F0F0F0' },
+        { date: '3 Mar', value: 80, color: '#FFA500' },
+        { date: '4 Mar', value: 15, color: '#F0F0F0' }
+    ];
+
+    const chart = document.getElementById('chart');
+    const xAxis = document.getElementById('x-axis');
+
+    data.forEach((item, index) => {
+        const bar = document.createElement('div');
+        bar.className = `bar bar-${index}`;
+        bar.style.height = `${item.value}%`;
+        bar.style.backgroundColor = item.color;
+
+        if (item.label) {
+            const label = document.createElement('div');
+            label.className = 'bar-label';
+            label.textContent = item.label;
+            bar.appendChild(label);
+        }
+
+        chart.appendChild(bar);
+
+        const xLabel = document.createElement('div');
+        xLabel.className = 'x-label';
+        xLabel.textContent = item.date;
+        xAxis.appendChild(xLabel);
+    });
+</script>
+</body>
+</html>

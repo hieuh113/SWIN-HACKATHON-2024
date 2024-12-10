@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Login Page</title>
+    <link rel="stylesheet" href="styles/login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="login-container">
+        <h1>Welcome </h1>
+        <div class="logo">
+            <span>A</span>
+        </div>
+        <form id="loginForm" method="post" action="login.php"> 
+            <div class="input-group">
+                <input type="email" id="email" name="email" required> 
+                <label for="email">Email</label>
+                <i class="fas fa-envelope"></i>
+            </div>
+            <div class="input-group">
+                <input type="password" id="password" name="password" required> 
+                <label for="password">Password</label>
+                <i class="fas fa-eye-slash toggle-password"></i>
+            </div>
+            <div class="remember-forgot">
+                <label><input type="checkbox"> Remember me</label>
+                <a href="#">Forgot password?</a>
+            </div>
+            <button type="submit">LOGIN</button>
+        </form>
+        <p class="signup">Don't have an account? <a href="#">Sign Up</a></p>
+        <div class="social-login">
+            <p>Or login with</p>
+            <div class="social-icons">
+                <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-google"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </div>
+    <script src="java/login.js"></script>
+</body>
+</html>
